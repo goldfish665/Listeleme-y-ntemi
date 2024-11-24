@@ -1,0 +1,11 @@
+Bir değişkende birden fazla veri depolayabilmemizi sağlar
+Köşeli parantez kullanılır ve her bir veri virgül ile ayrılır.
+ör= sayilar=[1,2,3,4,5]
+listelere veri eklenebilir.
+hangi veri üzerinden işlem yapılacaksa kendi türü üzerinden işlem yapılır.
+sayilar+=[1,2,3]
+
+listede herhangi bir veriye ulaşmak için indeks kavramı kullanılır.
+indeks, çoklu verideki elemanların  konumunu  temsil eder.
+her daim 0 dan başlayan konum, toplam eleman sayısının bir eksiğine kadar devam eder. bir çoklu veri (sözlük hariç) indeksine ulaşmak için;
+çoklu_veri[indeksNumara]
